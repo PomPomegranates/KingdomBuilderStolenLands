@@ -1,0 +1,6 @@
+@KingdomsArmies.Server_HostAddress = http://localhost:5212
+
+GET {{KingdomsArmies.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
